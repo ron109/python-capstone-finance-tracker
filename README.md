@@ -21,8 +21,5 @@ Follow the on-screen prompts to add expenses, view your data, or exit the tracke
 - **Conditionals**: To handle user choices.
 - **Exception Handling**: Validates user input and prevents crashes from invalid data.
 
----
-
-Let me know if you want this uploaded directly to your GitHub repo or want a version with emojis or without them!
 
 
