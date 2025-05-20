@@ -5,7 +5,7 @@ This is a simple command-line Python project that helps users track their expens
 ## How to Run the Script
 
 1. Make sure you have Python installed (version 3.x).
-2. Download or clone the repository: https://github.com/yourusername/python-capstone-finance-tracker
+2. Download or clone the repository: (https://github.com/ron109/python-capstone-finance-tracker.git)
 
 3. Navigate to the project directory and run the script:
 
